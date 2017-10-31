@@ -1,3 +1,5 @@
 hi this is new file to testhi
 this one new line
 test
+hi
+new lin added
